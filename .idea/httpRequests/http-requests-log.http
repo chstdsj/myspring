@@ -1,0 +1,48 @@
+POST http://localhost:8080/user/add?name=王小二&age=20&birthday=2011-12-12
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-11-05T113203.200.txt
+
+###
+
+POST http://localhost:8080/user/add?name=王小二&age=20&birthday=2011-12-12
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-11-05T112217.200.txt
+
+###
+
+POST http://localhost:8080/user/add?name=王小二&age=20&birthday=2011-12-12
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-11-05T102643.404.html
+
+###
+
+POST http://localhost:8080/user/add?name=王小二&age=20&birthday=2011-12-12
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-11-05T102446.404.html
+
+###
+
+POST http://localhost:8080/user/add?name=王小二&age=20&birthday=2011-12-12
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-11-05T102352.404.html
+
+###
+
+POST http://localhost:8080/user/add?name=王小二&age=20&birthday=2011-12-12
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-11-05T102248.404.html
+
+###
+

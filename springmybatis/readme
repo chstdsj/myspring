@@ -1,0 +1,10 @@
+本项目使用的maven管理jar
+
+使用架构：spring+springMVC+mybatis
+
+
+configure.properties 属性配置文件，数据库连接信息，数据源信息
+log4j2.xml  日志文件
+spring.xml  spring配置文件，在web.xml中配置listener监听器时使用
+springmvc.xml   springmvc配置文件，在web.xml中配置spring servlet时使用
+mybatis-config.xml mybatis配置文件，在spring.xml中配置sqlSessionFactory时使用
